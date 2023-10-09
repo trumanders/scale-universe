@@ -1,0 +1,1 @@
+This console program lets you list the planets of the solar system and the sun, to see their sizes, masses and orbit times, as well as their orbital frequency in Hz. You can then choose a planet (or sun) and set a new size for it, and then see the new scaled sizes and masses of the celestial bodies. The frequency can also be scaled.
